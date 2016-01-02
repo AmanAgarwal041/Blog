@@ -1,0 +1,27 @@
+Blog System
+
+
+/*Properties of blogs*/
+Title
+Image
+Body
+Posted date
+
+
+
+/*Regarding Blog posts*/
+Create and Update the Articles
+Create Update and view the categories
+
+
+/*Front end*/
+List the articles summary
+option for view of the detailed view
+same categories articles
+
+
+/*Functionalities*/
+validation
+routing
+what you see is what you get
+

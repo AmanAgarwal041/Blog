@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Buxton';
+  src: url('../fonts/BuxtonSketch.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'CooperBlackStd';
+  src: url('../fonts/CooperBlackStd.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'HoboStd';
+  src: url('../fonts/HoboStd.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'StencilStd';
+  src: url('../fonts/StencilStd.ttf') format('truetype');
+}
+
+body
+{
+    font-family: Buxton !important;
+}
+
+h1,h2,h3
+{
+	font-family:HoboStd !important;
+}
+h4,h5,h6
+{
+	font-family : CooperBlackStd !important;
+}
+a 
+{
+	font-family:StencilStd ;
+}
+form
+{
+	 font-family: 'CooperBlackStd' !important;
+}
+.form-control
+{
+	font-family: Buxton !important;
+}
+#login ,#register
+{
+	display:none;
+}
